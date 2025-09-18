@@ -4,7 +4,7 @@
 > </br>
 > **Repository:** [https://github.com/amdadislam01/food-delivery-client-site](https://github.com/amdadislam01/food-delivery-client-site)
 > </br>
-> **Live Demo:** *\[Add live demo link if deployed]*
+> **Live Demo:** https://food-delivery-nine-fawn.vercel.app/
 
 ---
 
