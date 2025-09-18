@@ -2,8 +2,8 @@
 
 > **Project:** Food Delivery Client Site (Frontend)
 > </br>
-> **Author:** MD. Amdad Islam
 > **Repository:** [https://github.com/amdadislam01/food-delivery-client-site](https://github.com/amdadislam01/food-delivery-client-site)
+> </br>
 > **Live Demo:** *\[Add live demo link if deployed]*
 
 ---
