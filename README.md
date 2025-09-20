@@ -1,4 +1,4 @@
-# Food Delivery Client Sit
+# Food Delivery Client Site
 
 > **Project:** Food Delivery Client Site (Frontend)
 > </br>
